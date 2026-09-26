@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Niet\\OneDrive\\Desktop\\hhhh\\mvc\\mvccc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81006559-44B9-4EA5-64D3-B08AC958D6AF}|mvccc.csproj|c:\\users\\niet\\onedrive\\desktop\\hhhh\\mvc\\mvccc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81006559-44B9-4EA5-64D3-B08AC958D6AF}|mvccc.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81006559-44B9-4EA5-64D3-B08AC958D6AF}|mvccc.csproj|c:\\users\\niet\\onedrive\\desktop\\hhhh\\mvc\\mvccc\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81006559-44B9-4EA5-64D3-B08AC958D6AF}|mvccc.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81006559-44B9-4EA5-64D3-B08AC958D6AF}|mvccc.csproj|c:\\users\\niet\\onedrive\\desktop\\hhhh\\mvc\\mvccc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{81006559-44B9-4EA5-64D3-B08AC958D6AF}|mvccc.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81006559-44B9-4EA5-64D3-B08AC958D6AF}|mvccc.csproj|c:\\users\\niet\\onedrive\\desktop\\hhhh\\mvc\\mvccc\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81006559-44B9-4EA5-64D3-B08AC958D6AF}|mvccc.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81006559-44B9-4EA5-64D3-B08AC958D6AF}|mvccc.csproj|c:\\users\\niet\\onedrive\\desktop\\hhhh\\mvc\\mvccc\\mvccc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{81006559-44B9-4EA5-64D3-B08AC958D6AF}|mvccc.csproj|solutionrelative:mvccc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Niet\\OneDrive\\Desktop\\hhhh\\mvc\\mvccc\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Niet\\OneDrive\\Desktop\\hhhh\\mvc\\mvccc\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T20:42:10.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Niet\\OneDrive\\Desktop\\hhhh\\mvc\\mvccc\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Niet\\OneDrive\\Desktop\\hhhh\\mvc\\mvccc\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-11T18:31:46.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Niet\\OneDrive\\Desktop\\hhhh\\mvc\\mvccc\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Niet\\OneDrive\\Desktop\\hhhh\\mvc\\mvccc\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T18:55:30.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "mvccc.csproj",
+              "DocumentMoniker": "C:\\Users\\Niet\\OneDrive\\Desktop\\hhhh\\mvc\\mvccc\\mvccc.csproj",
+              "RelativeDocumentMoniker": "mvccc.csproj",
+              "ToolTip": "C:\\Users\\Niet\\OneDrive\\Desktop\\hhhh\\mvc\\mvccc\\mvccc.csproj",
+              "RelativeToolTip": "mvccc.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-11T18:54:04.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Niet\\OneDrive\\Desktop\\hhhh\\mvc\\mvccc\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Niet\\OneDrive\\Desktop\\hhhh\\mvc\\mvccc\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T18:30:23.947Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
